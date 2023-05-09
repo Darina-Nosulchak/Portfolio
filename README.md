@@ -63,4 +63,4 @@
 
 4.	Рассчитываем LTV (прибыль).
 
-Ссылка на проект:
+Ссылка на проект: https://github.com/Darina-Nosulchak/Portfolio/commit/15050878ae4babcae369c0bcd5dba7d367126bf3
