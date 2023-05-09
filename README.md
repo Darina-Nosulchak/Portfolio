@@ -64,3 +64,9 @@
 4.	Рассчитываем LTV (прибыль).
 
 Ссылка на проект: https://github.com/Darina-Nosulchak/Portfolio/commit/15050878ae4babcae369c0bcd5dba7d367126bf3
+
+Выводы:
+
+1. LTV высок из-за низких затрат на реализацию продукта.
+
+2. LTV высок из-за высоких LT и Retention.
